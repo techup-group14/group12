@@ -5,10 +5,13 @@
 #header {	
     text-align: center;
     background-color: #247BA0;
+    font-style: oblique;
+    font-size: 34px;
+
 }
 
 #foto1 {
-    width: 100%;
+    width: 500px;
       height: auto;
     display: block;
     margin-left: auto;
@@ -36,9 +39,9 @@ li a {
 }
 
 li a:hover {
-    background-color: #5ADBFF;
+    background-color: red;
     height: 22px;
-    color: #247BA0;
+    color: #155672;
 }
 
 table {
@@ -64,4 +67,9 @@ th {
     background-color: #5ADBFF;
     padding: 0.5em;
     text-align: right;
+}
+.festa{
+    font-size: 50px;
+    color: rgb(57, 69, 179);
+    font-style: oblique;
 }
